@@ -94,6 +94,20 @@ section h3 {
   border-bottom: none;
 }
 
+.participant-info {
+  font-size: 1.2em;
+  color: #333;
+  margin: 10px 0;
+}
+
+.participant-info .name {
+  font-weight: bold;
+}
+
+.participant-info .details {
+  font-style: italic;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
